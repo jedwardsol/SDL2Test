@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="sd2ltest.cpp">
+    <ClCompile Include="animate.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
